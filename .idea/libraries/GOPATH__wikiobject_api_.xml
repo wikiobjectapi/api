@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;wikiobject-api&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../github.com" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$/../github.com/codegangsta/inject/.git" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/../github.com/go-martini/martini/.git" />
+    </excluded>
+  </library>
+</component>
